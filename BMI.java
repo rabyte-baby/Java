@@ -1,4 +1,4 @@
-public class KKK {
+public class BMI {
     public static void main (String[] args) {
         
         double pounds = 123.459d;
