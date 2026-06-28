@@ -1,2 +1,2 @@
-# Java
-Trying a new programming language.
+≽ Java ≼ 
+This repository are just mini projects that I made using Java. 
